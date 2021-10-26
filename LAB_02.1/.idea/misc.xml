@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/BACH_KHOA/NAM_4_KI_1/ANDROID/CODELAB/AndroidCodeLab_PhanDucTrong/LAB_02.1/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/BACH_KHOA/NAM_4_KI_1/ANDROID/CODELAB/AndroidCodeLab_PhanDucTrong/LAB_02.1/app/src/main/res/layout/activity_second.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
@@ -12,5 +13,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.36666666666666664" />
+      </ProjectState>
+    </option>
   </component>
 </project>
