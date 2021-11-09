@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_small">20sp</dimen>
+    <dimen name="buttonGap">2dp</dimen>
+    <dimen name="text_numpad">30dp</dimen>
+    <dimen name="text_button">25sp</dimen>
+</resources>
